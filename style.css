@@ -1,0 +1,31 @@
+body{
+    text-align:center; 
+}
+#hi{
+ background: linear-gradient(red,yellow);
+}
+#head{
+    font-size:20px;
+}
+#book{
+    font-size:30px;
+}
+#yes{
+    
+    z-index: 8px;
+}
+#sup{
+   
+    z-index:  10px;
+}
+.menu{
+    cursor: pointer;
+    z-index: 10px;
+}
+#image1{
+    border-radius: 50%;
+    width:100px;
+}
+    .links:hover{
+     background-color:dodgerblue;
+    }
